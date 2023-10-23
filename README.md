@@ -1,2 +1,2 @@
 # web-develper
-this is full web course
+this is full web course.
